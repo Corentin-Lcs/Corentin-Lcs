@@ -1,7 +1,7 @@
 # The largest heading
 ## The second largest heading
 ### Hi there 👋
-###### The smallest heading
+###### The smallest headin
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
 
