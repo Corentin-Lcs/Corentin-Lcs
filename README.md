@@ -7,7 +7,7 @@
 
 Test de sauvegarde
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title="Co //"Statisti")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title=Statistiques%20-%20Corentin%20:)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&layout=demo)
 
