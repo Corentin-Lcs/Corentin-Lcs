@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Test de sauvegarde
-[c](https://user-images.githubusercontent.com/91761474/193090826-a8127feb-aa18-489e-ac2b-3199de794c6e.PNG)
+
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
