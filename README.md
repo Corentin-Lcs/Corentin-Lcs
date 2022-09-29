@@ -1,4 +1,3 @@
-### Hi there 👋
 # The largest heading
 ## The second largest heading
 ### Hi there 👋
