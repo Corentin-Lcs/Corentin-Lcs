@@ -11,7 +11,9 @@ Test de sauvegarde
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title=Statistics%20-%20Corentin%20:)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&layout=layout&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
