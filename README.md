@@ -11,6 +11,7 @@ Test de sauvegarde
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&layout=compact)
 
+<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
