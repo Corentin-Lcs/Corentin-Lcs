@@ -6,9 +6,9 @@
 
 Test de sauvegarde
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=algolia&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=midnight-purple&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=algolia&layout=compact)
 
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
