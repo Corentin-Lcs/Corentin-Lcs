@@ -4,7 +4,11 @@
 ###### The smallest heading
 
 
-![Anurag's GitHub stats](data-repo="Corentin-Lcs/test" data-theme="maroongold")
+<script src="./repo-card.min.js" id="repo-card-lib"
+        data-repo="test"
+        data-username="Corentin-Lcs"
+        data-title="Init">
+</script>
 
 Test de sauvegarde
 
