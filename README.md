@@ -3,7 +3,7 @@
 ### Hi there 👋
 ###### The smallest heading
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test)](https://github.com/Corentin-Lcs/test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
 
 Test de sauvegarde
 
