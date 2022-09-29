@@ -3,12 +3,13 @@
 ### Hi there 👋
 ###### The smallest heading
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test)
 
 Test de sauvegarde
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title="Statistiques","Corentin")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title=Corentin/nStatisti)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&layout=demo)
 
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
