@@ -4,7 +4,7 @@
 ###### The smallest heading
 
 
-<data-repo="Corentin-Lcs/test" data-theme="maroongold">
+![Anurag's GitHub stats](data-repo="Corentin-Lcs/test" data-theme="maroongold")
 
 Test de sauvegarde
 
