@@ -92,8 +92,6 @@ IDEs/Editors
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-<img src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/svg.png" />
-
 
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
