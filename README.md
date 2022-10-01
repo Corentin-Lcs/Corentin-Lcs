@@ -5,6 +5,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ###### The smallest headin
 
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/{BadiiiiX}/count.svg" />
+ </p>
+
+
 Rendez-vous sur [Test](http://www.simplonline.com) !
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
