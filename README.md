@@ -92,7 +92,7 @@ IDEs/Editors
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-<img align="center" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/svg.png" />
+<img src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/svg.png" />
 
 
 <!--
