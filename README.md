@@ -64,7 +64,6 @@ ff
 <a href="https://www.linkedin.com/in/corentin-lenclos-714616241/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="https://twitter.com/CorentinLenclos" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> 
 <a href="https://github.com/Corentin-Lcs" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a> 
-<a href="https://www.youtube.com/channel/UCAvCr0o-q3SqlGu6cVbT4Lw/featured" target="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a> 
 
 
 
