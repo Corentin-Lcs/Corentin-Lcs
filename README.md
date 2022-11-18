@@ -28,8 +28,9 @@ Test de sauvegarde
 ---
 <h3 align="center"> My GitHub Statistics</h3>
 
+<div align="center">
 <a href="https://github.com/Corentin-Lcs" ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title=Statistics%20-%20Corentin%20:" /></a> <a href="https://github.com/Corentin-Lcs" ><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&layout=compact&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:" /></a>
-
+</div>
    
   ##
   
