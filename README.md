@@ -33,9 +33,8 @@ Test de sauvegarde
    
    
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/Corentin-Lcs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&layout=compact&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/Corentin-Lcs)
    
-
 
    
   ##
@@ -103,7 +102,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/Corentin-Lcs)
 
 You can also use words, to fit your writing style more closely[^note].
 
