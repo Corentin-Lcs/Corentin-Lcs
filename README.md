@@ -23,14 +23,6 @@ int main()
 1. aaa
    - bbb
 
-- [x] #739
-- [ ] aaaa
-
-- [ ] \(Optional) Open a followup issue
-
-
-<span style="font-family: 'Lucida Console';">foo</span>
-
 
 
 
