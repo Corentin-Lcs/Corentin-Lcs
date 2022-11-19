@@ -1,6 +1,3 @@
-<div align="center">
-<a href="https://github.com/Corentin-Lcs"><img width="300em" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/signature.png" alt="Corentin Lenclos" width="200"></a></div>
-
 <h1>Hi there <img width="40px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !</h1>
 
 ## Presentation
@@ -105,6 +102,10 @@ Here are some ideas to get you started:
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/Corentin-Lcs)
+
+<div align="center">
+<a href="https://github.com/Corentin-Lcs"><img width="300em" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/signature.png" alt="Corentin Lenclos" width="200"></a></div>
+
 
 You can also use words, to fit your writing style more closely[^note].
 
