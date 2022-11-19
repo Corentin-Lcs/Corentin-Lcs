@@ -3,7 +3,8 @@
 <h2 align="center">Presentation</h2>
 
 
-> Ceci est un test.
+> My name is Corentin, 18 years old
+
 
 Use `git status`
 
