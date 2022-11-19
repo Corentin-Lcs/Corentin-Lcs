@@ -35,12 +35,16 @@ Test de sauvegarde
 <h3 align="center">Connect with me :</h3>
 
 <div align="center">
-   
-<a href="https://discords.com/bio/p/corentinlenclos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp; <a href = "https://www.facebook.com/corentin.lenclos" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> &nbsp;
-<a href = "mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;
+
+<a href="https://www.linkedin.com/in/corentin-lenclos-714616241/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href = "mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;  
+<a href="https://discords.com/bio/p/corentinlenclos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp;
 <a href = "https://www.instagram.com/corentin.lenclos/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> &nbsp;
-<a href="https://www.linkedin.com/in/corentin-lenclos-714616241/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp;
-<a href="https://twitter.com/CorentinLenclos" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> &nbsp;
+<a href="https://twitter.com/CorentinLenclos" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> &nbsp;    
+<a href = "https://www.facebook.com/corentin.lenclos" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> &nbsp;
+
+
+
+
    
 </div>
 
