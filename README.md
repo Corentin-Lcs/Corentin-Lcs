@@ -1,7 +1,4 @@
-
-<div align="center">
-<a href="https://github.com/Corentin-Lcs"><img width="300em" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/signature.png" alt="Corentin Lenclos" width="200"></a></div>
-<h1 align="center" width="200em">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !</h1>
+<h1>Hello there <img width="40px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !</h1>
 
 ## The second largest heading
 ###### The smallest headin
@@ -76,6 +73,8 @@ IDEs/Editors
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
+<div align="center">
+<a href="https://github.com/Corentin-Lcs"><img width="300em" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/signature.png" alt="Corentin Lenclos" width="200"></a></div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
