@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi there 👋 !</h1>-->
 
-<img align="center" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/hello.png">
+<img align="center" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/hey.png">
 
 <h2 >Presentation</h2>
 
