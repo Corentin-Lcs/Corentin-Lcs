@@ -1,7 +1,6 @@
 <h1>Hi there 👋 !</h1>
 
-## Presentation
-<h2>Presentation</h2>
+<h2 align="center">Presentation</h2>
 Je ffqsdf
 
 ###### The smallest headin
