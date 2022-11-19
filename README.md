@@ -1,7 +1,6 @@
 <h1>Hi there 👋 !</h1>
 
-<h2 align="center">Presentation</h2>
-
+<h2 >Presentation</h2>
 
 > My name is Corentin, 18 years old, I have been passionate about everything related to computers since I was little.
 
