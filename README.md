@@ -3,9 +3,20 @@
 <h2 align="center">Presentation</h2>
 
 
-> My name is Corentin, 18 years old
+> My name is Corentin, 18 years old, I have been passionate about everything related to computers since I was little.
 
+ or <http://www.example.com>
 
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
+<code>nano</code>
+
+ 
+ 
 Use `git status`
 
 ---
