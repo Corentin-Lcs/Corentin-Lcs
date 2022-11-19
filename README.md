@@ -105,8 +105,6 @@ IDEs/Editors
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -126,14 +124,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmhmubin&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmhmubin&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:)](https://github.com/Corentin-Lcs)
-
-<div align="center">
-<a href="https://github.com/Corentin-Lcs"><img width="300em" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/signature.png" alt="Corentin Lenclos" width="200"></a></div>
 
 
 You can also use words, to fit your writing style more closely[^note].
