@@ -7,6 +7,8 @@
 
 > I am currently a student at IUT de Paris - Rives de Seine and I am in the first year of BUT Informatique.
 
+> I would like to become an artificial intelligence or cybersecurity engineer. My motto : "What is done is no longer to be done".
+
  or <http://www.example.com>
 
 > **Note**
