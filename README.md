@@ -5,7 +5,7 @@
 
 > My name is Corentin, 18 years old, I have been passionate about everything related to computers since I was little.
 
-> I am currently a student at IUT de Paris - Rives de Seine. I am in the first year of BUT Informatique.
+> I am currently a student at IUT of Paris - Rives de Seine. I am in the first year of BUT Informatique.
 
  or <http://www.example.com>
 
