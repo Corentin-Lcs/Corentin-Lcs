@@ -35,7 +35,7 @@ Use `git status`
 
 
 
-Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
+Rendez-vous sur [Test](https://github.com/Corentin-Lcs?tab=repositories) !
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
 
