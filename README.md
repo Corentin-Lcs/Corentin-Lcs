@@ -38,9 +38,6 @@ Use `git status`
 
 
 
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
