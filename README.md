@@ -65,6 +65,10 @@ Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 <a href="https://github.com/Corentin-Lcs" ><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=maroongold&show_icons=true&custom_title=Statistics%20-%20Corentin%20:" /></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Corentin-Lcs" ><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&layout=compact&theme=maroongold&custom_title=Most%20Used%20Languages%20-%20Corentin%20:" /></a>
 </div>
 
+<div align="center">
+<a href="https://github.com/Corentin-Lcs" ><img height="150em" src="https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&theme=great-gatsby&show_icons=true&custom_title=Statistics%20-%20Corentin%20:" /></a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Corentin-Lcs" ><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&layout=compact&theme=great-gatsby&custom_title=Most%20Used%20Languages%20-%20Corentin%20:" /></a>
+</div>
+
 ##
 
 <h3 align="center">Contact</h3>
