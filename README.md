@@ -45,19 +45,18 @@ Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
 
-Test de sauvegarde
 
-
-   
-  ##
-  
 
 <h2>Languages - Tools</h2>
-   
+
+> Here are the languages I know and use :
+
 <div align="center">
 
 [![My Skills 1](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,py,latex,java,dart,php,sqlite)](https://github.com/Corentin-Lcs)
 </div>
+
+> Here are the tools I use in my daily life :
 
 <div align="center">
  
