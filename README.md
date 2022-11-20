@@ -51,15 +51,18 @@ Test de sauvegarde
    
   ##
   
-   
 
 <h2>Languages - Tools</h2>
-
+   
+<div align="center">
 
 [![My Skills 1](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,py,latex,java,dart,php,sqlite)](https://github.com/Corentin-Lcs)
+</div>
 
+<div align="center">
+ 
 [![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
-
+</div>
 .  
 ff  
 
