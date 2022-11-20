@@ -12,7 +12,7 @@
 
 <h2>Work</h2>
 
-> Is exposed here some projects (personal or school) that I realized !
+> Is exposed here some projects (personal or school) that I realized :
 
 README EN CONSTRUCTION
 
