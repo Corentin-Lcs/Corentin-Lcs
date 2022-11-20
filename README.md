@@ -39,7 +39,7 @@ Use `git status`
 
 
 
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 
@@ -62,19 +62,6 @@ Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
  
 [![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
 </div>
-.  
-ff  
-
-
-
-IDEs/Editors
-<a href="https://unity.com/" target="_blank">![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)</a> 
-<a href="https://www.sublimetext.com/" target="_blank">![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)</a> 
-<a href="https://code.visualstudio.com/" target="_blank">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a> 
-<a href="https://visualstudio.microsoft.com/" target="_blank">![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) </a> 
- 
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ##
 
