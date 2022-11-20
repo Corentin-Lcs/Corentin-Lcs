@@ -55,8 +55,10 @@ Test de sauvegarde
 
 <h2>Languages - Tools</h2>
 
+[![My Skills 1](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,dart,java,latex,php,py,sqlite)](https://github.com/Corentin-Lcs)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,bootstrap,c,cs,cpp,dart,firebase,flutter,idea,java,jquery,latex,linux,mysql,php,py,sqlite,stackoverflow,unity,visualstudio,vscode,wordpress)](https://github.com/Corentin-Lcs)
+
+[![My Skills 2](https://skillicons.dev/icons?i=androidstudio,arduino,bootstrap,firebase,flutter,idea,jquery,linux,mysql,stackoverflow,unity,visualstudio,vscode,wordpress)](https://github.com/Corentin-Lcs)
   
 .  
 ff  
