@@ -25,13 +25,9 @@ README EN CONSTRUCTION
 > **Warning**
 > This is a warning
 
-<code>nano</code>
 
- 
  
 Use `git status`
-
----
 
 - a
 - b
