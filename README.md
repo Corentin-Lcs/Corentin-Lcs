@@ -63,7 +63,7 @@ Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 [![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
 </div>
 
-##
+---
 
 <h3 align="center"> My GitHub Statistics</h3>
 
