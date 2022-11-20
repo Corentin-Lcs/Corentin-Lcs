@@ -32,20 +32,12 @@ Use `git status`
 
 ---
 
-```c
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-```
 - a
 - b
 - c
 
 
 
-###### The smallest headin
 
 
 
@@ -56,23 +48,12 @@ Rendez-vous sur [Test](https://www.youtube.com/watch?v=274w7ocG2SM) !
 Test de sauvegarde
 
 
-
-
-
-
-   
-</div>
-
-##
----
-
    
   ##
   
    
 
-
-<br><br><br>
+<h2>Languages - Tools</h2>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,arduino,bootstrap,c,cs,cpp,dart,firebase,flutter,idea,java,jquery,latex,linux,mysql,php,py,sqlite,stackoverflow,unity,visualstudio,vscode,wordpress)](https://github.com/Corentin-Lcs)
