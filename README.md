@@ -58,7 +58,7 @@ Test de sauvegarde
 
 [![My Skills 1](https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,py,latex,java,dart,php,sqlite)](https://github.com/Corentin-Lcs)
 
-[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,mysql,idea,arduino,firebase,bootstrap,androidstudio,flutter,stackoverflow,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
+[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
 
 .  
 ff  
