@@ -17,7 +17,7 @@
 README EN CONSTRUCTION
 
 
- or <http://www.example.com>
+<http://www.example.com>
 
 > **Note**
 > This is a note
@@ -33,13 +33,9 @@ Use `git status`
 - b
 - c
 
-
-
-Rendez-vous sur [Test](https://github.com/Corentin-Lcs?tab=repositories) !
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=test&theme=maroongold)](https://github.com/Corentin-Lcs/test)
 
-
+> If you want to see more, do not hesitate to navigate in the directory of my projects by clicking [here](https://github.com/Corentin-Lcs?tab=repositories).
 
 <h2>Languages - Tools</h2>
 
@@ -73,7 +69,7 @@ Rendez-vous sur [Test](https://github.com/Corentin-Lcs?tab=repositories) !
 
 <a href = "mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; <a href="https://www.linkedin.com/in/corentin-lenclos-714616241/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="https://discords.com/bio/p/corentinlenclos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp; <a href = "https://www.instagram.com/corentin.lenclos/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> &nbsp; <a href="https://twitter.com/CorentinLenclos" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> &nbsp; <a href = "https://www.facebook.com/corentin.lenclos" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a></div>
  
-> For any project or job offer, don't hesitate to contact me through these social networks.
+> For any project or job offer, do not hesitate to contact me through these social networks.
 <!--
 **Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
