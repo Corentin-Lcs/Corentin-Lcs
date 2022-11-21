@@ -17,7 +17,7 @@
 README EN CONSTRUCTION
 
 
-<http://www.example.com>
+<https://github.com/Corentin-Lcs>
 
 > **Note**
 > This is a note
