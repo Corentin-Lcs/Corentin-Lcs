@@ -20,7 +20,7 @@ README EN CONSTRUCTION
 <https://github.com/Corentin-Lcs>
 
 > **Note**
-> This is a note
+> : This is a note
 
 > **Warning**
 > This is a warning
