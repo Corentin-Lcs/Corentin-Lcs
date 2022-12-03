@@ -50,7 +50,7 @@ Use `git status`
 
 <div align="center">
  
-[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
+[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,mysql,arduino,firebase,bootstrap,androidstudio,flutter,vue,linux,jquery,unity,wordpress)](https://github.com/Corentin-Lcs)
 </div>
 
 ---
