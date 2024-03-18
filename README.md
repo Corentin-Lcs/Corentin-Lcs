@@ -1,16 +1,61 @@
-### Hi there 👋
+<img align="center" src="https://github.com/Corentin-Lcs/Corentin-Lcs/blob/main/hey.png">
 
-<!--
-**Corentin-Lcs/Corentin-Lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Presentation</h2>
 
-Here are some ideas to get you started:
+> My name is Corentin, 19 years old, I have been passionate about everything related to computers since I was little.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I am currently a student at IUT de Paris - Rives de Seine and I am in the second year of BUT Informatique.
+
+> I would like to become an artificial intelligence or cybersecurity engineer. My motto : "What is done is no longer to be done".
+
+<h2>Work</h2>
+
+> Is exposed here some projects (personal or school) that I realized :
+
+&nbsp;﹥ _Web Article Template_, Personal
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=web-article-template&theme=maroongold)](https://github.com/Corentin-Lcs/web-article-template)
+
+&nbsp;﹥ _University Training Management_, University of Paris
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=iut-university-training-management&theme=maroongold)](https://github.com/Corentin-Lcs/iut-university-training-management)
+
+&nbsp;﹥ _Dictionary Of Composers_, Personal
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Corentin-Lcs&repo=composers-list&theme=maroongold)](https://github.com/Corentin-Lcs/composers-list)
+
+> If you want to see more, do not hesitate to navigate in the directory of my projects by clicking [here](https://github.com/Corentin-Lcs?tab=repositories).
+
+<h2>Languages - Tools</h2>
+
+> Here are the languages I know and use :
+
+<div align="center">
+
+[![My Skills 1](https://skillicons.dev/icons?i=html,css,js,typescript,c,cs,cpp,py,java,latex,md,php,sqlite)](https://github.com/Corentin-Lcs)
+</div>
+
+> Here are the tools I use in my daily life :
+
+<div align="center">
+    
+[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,phpstorm,pycharm,rider,webstorm,androidstudio,unity,sublime,cmake,firebase,mysql,discordjs,arduino,raspberrypi,jquery,bootstrap,vue,dotnet,gradle,nodejs,npm,github,gitlab,git,windows,linux,ubuntu)](https://github.com/Corentin-Lcs)
+</div>
+
+---
+
+<h3 align="center"> My GitHub Statistics</h3>
+
+<div align="center">
+<a href="https://github.com/Corentin-Lcs"><img height="200em" src="https://github-readme-stats.vercel.app/api?username=Corentin-Lcs&text_bold=false&border_radius=3&theme=maroongold&rank_icon=github&show_icons=true&custom_title=Statistics%20-%20Corentin%20:"/></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/Corentin-Lcs"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corentin-Lcs&text_bold=false&border_radius=3&theme=maroongold&layout=compact&card_width=320&langs_count=15&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages%20-%20Corentin%20:"/></a>
+</div>
+
+##
+
+<h3 align="center">Contact</h3>
+
+<div align="center">
+
+<a href = "mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; <a href="https://www.linkedin.com/in/corentin-lenclos-714616241/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> &nbsp; <a href="https://discords.com/bio/p/corentinlenclos" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> &nbsp; <a href = "https://www.instagram.com/corentin.lenclos/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> &nbsp; <a href="https://twitter.com/CorentinLenclos" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> &nbsp; <a href = "https://www.facebook.com/corentin.lenclos" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a></div>
+ 
+> For any project or job offer, do not hesitate to contact me through these social networks.
