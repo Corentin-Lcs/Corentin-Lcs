@@ -4,7 +4,7 @@
 
 > My name is Corentin, 20 years old, I have been passionate about everything related to computers since I was little.
 
-> I am currently a student at IUT de Paris - Rives de Seine and I am in the second year of BUT Informatique.
+> I am currently a student at IUT de Paris - Rives de Seine and I am in my final year of BUT Informatique.
 
 > I would like to become an cybersecurity engineer. My motto : "What is done is no longer to be done".
 
