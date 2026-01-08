@@ -32,14 +32,14 @@
 
 <div align="center">
 
-[![My Skills 1](https://skillicons.dev/icons?i=html,css,js,typescript,c,cs,cpp,py,java,latex,md,php,sqlite)](https://github.com/Corentin-Lcs)
+[![My Skills 1](https://skillicons.dev/icons?i=html,css,js,typescript,c,cs,cpp,py,java,latex,md,sqlite)](https://github.com/Corentin-Lcs)
 </div>
 
 > Here are the tools I use in my daily work:
 
 <div align="center">
-    
-[![My Skills 2](https://skillicons.dev/icons?i=vscode,visualstudio,idea,clion,phpstorm,pycharm,rider,webstorm,androidstudio,unity,sublime,cmake,firebase,mysql,discordjs,arduino,raspberrypi,jquery,bootstrap,vue,dotnet,gradle,nodejs,npm,github,gitlab,git,windows,linux,ubuntu)](https://github.com/Corentin-Lcs)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite,nodejs,pnpm,npm,postgres,mysql,git,github,gitlab,docker,vscode,visualstudio,idea,clion,phpstorm,pycharm,webstorm,androidstudio,raspberrypi,arduino,linux,ubuntu,debian,kali,windows)](https://github.com/Corentin-Lcs)
 </div>
 
 ---
@@ -56,6 +56,6 @@
 
 <div align="center">
 
-<a href="https://github.com/Corentin-Lcs" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a> &nbsp;<a href="mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;<a href="https://www.linkedin.com/in/corentin-lenclos" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></div>
+<a href="mailto:corentin.lenclos@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp;<a href="https://www.linkedin.com/in/corentin-lenclos" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></div>
  
 > For any project or job offer, feel free to contact me through these social networks.
